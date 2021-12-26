@@ -1,9 +1,9 @@
 <h1 align="center">Oi 👋,Eu sou Nilson Ribeiro</h1>
-<h3 align="center">Estudante de Desenvolvimento web/software na Trybe</h3>
+<h3 align="center">Desenvolvedor na Meta It</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nilsonrcs" alt="nilsonrcs" /></a> </p>
 
-- 🌱 Atualmente aprendendo **Sobre QA, ORM e Sockets**
+- 🌱 Atualmente aprendendo **SalesForce, QA e VueJS**
 
 - 🤝 Meus hobbies **Jogos e Músicas**
 
