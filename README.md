@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nilsonrcs" alt="nilsonrcs" /></a> </p>
 
-- 🌱 Atualmente aprendendo C#,Unity
+- 🌱 Atualmente aprendendo Swift, IOS
 
 - 🤝 Meus hobbies **Jogos e Músicas**
 
